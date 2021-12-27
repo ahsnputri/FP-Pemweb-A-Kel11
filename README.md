@@ -1,3 +1,5 @@
+
+
 # RANCANG BANGUN WEBSITE PROFIL '**PARKER INTERNATIONAL SCHOOL**'
 ## LAPORAN FINAL PROJECT 
 ## Mata Kuliah Pemrograman Web (A)
@@ -12,9 +14,9 @@
 
 ## **HALAMAN UTAMA APLIKASI**
 ### *HALAMAN USER*
-![Gambar Halaman Utama](halaman_utama.png "Halaman Utama Website Parker School")<br/><br/>
+![Gambar Halaman Utama](https://user-images.githubusercontent.com/71718988/147485459-65ae5fe6-1be5-4af2-9adb-9549d52d36ba.png "Halaman Utama Website Parker School")<br/><br/>
 ### *HALAMAN ADMIN*
-![Gambar Halaman Utama Admin](halaman_utama_admin.png "Halaman Utama Website Admin")<br/><br/>
+![Gambar Halaman Utama Admin](https://user-images.githubusercontent.com/71718988/147485608-a28ad8b5-3acf-4dfe-b5b9-b05120969211.png "Halaman Utama Website Admin")<br/><br/>
 ---
 
 ## **DESKRIPSI APLIKASI**
@@ -27,7 +29,7 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Parker
 
 ## **SITEMAP MENU APLIKASI**
 ### *SITEMAP HALAMAN WEB USER*
-![Gambar Sitemap Web User](sitemap_user.png "Sitemap Web User")<br/><br/>
+![Gambar Sitemap Web User](https://user-images.githubusercontent.com/71718988/147485616-d60c35b3-2a74-4e0f-b6af-f26d593a1a8f.png "Sitemap Web User")<br/><br/>
 1. **Beranda**<br/>
 Beranda atau homepage ialah halaman utama atau bagian depan dari web yang berisi daftar isi ataupun menu-menu dari situs Web. Disaat mengakses homepage dari suatu situs website, kita dapat memilih ke halaman mana yang akan kita tuju. Halaman ini terdapat informasi selanjutnya  yang telah dibuat lebih spesifik untuk mengorganisir content suatu website supaya lebih mudah ditemukan dan dilihat oleh  pengunjung website. <br/>Di Web beranda Parker ini sudah terdapat tombol navigasi khusus untuk mengantarkan kita ke halaman yang ingin di akses, contohnya : menu beranda, tentang dan kontak. Di halaman utama Parker juga terdapat beberapa content yang ditampilkan diantaranya halaman media sosial sekolah, info siswa berprestasi, testimonial, dan halaman promosi. 
 
@@ -36,7 +38,7 @@ Halaman Tentang Kami adalah salah satu yang terpenting dari sebuah website, kare
 3. **Kontak**<br/>
 Salah satu kelengkapan sebuah web adalah adanya halaman kontak. Halaman kontak merupakan sarana komunikasi pengunjung dengan admin web selain komentar. Dengan mengirim pesan menggunakan halaman kontak maka apa yang disampaikan akan bersifat rahasia dan tidak dibaca oleh umum. Hal ini dilakukan jika ingin bertanya tentang sesuatu yang pribadi atau hal-hal yang tidak pantas untuk konsumsi pembaca umum. Halaman kontak dianggap salah satu kelengkapan sebuah web selain halaman tentang kami. Di halaman kontak ini terdapat beberapa content yang ditampilkan diantaranya lokasi sekolah, nomor kontak, email dan fitur send feedback. <br/><br/>
 ### *SITEMAP HALAMAN WEB ADMIN*
-![Gambar Sitemap Web Admin](sitemap_admin.png "Sitemap Web Admin")<br/><br/>
+![Gambar Sitemap Web Admin](https://user-images.githubusercontent.com/71718988/147485613-6238a913-c1a7-4ffc-a53b-bf92a667d35f.png "Sitemap Web Admin")<br/><br/>
 1. **Login**<br/>
 Login adalah suatu proses untuk masuk ke dalam sebuah layanan online yang berisi nama dan password. Saat ini halaman login bisa dilakukan pada halaman website maupun aplikasi. Secara teknis pun saat ini dalam melakukan login bisa dilakukan secara variatif mulai dari menggunakan email dan no hp, atau bisa juga menggunakan social media yang terintegrasi pada sistem tersebut. Dan di halaman login admin parker ini, login yang digunakan menggunakan akun admin yang sudah terdaftar.
 2. **Dasboard**<br/>
