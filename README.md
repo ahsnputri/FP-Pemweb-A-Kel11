@@ -4,7 +4,7 @@
 # RANCANG BANGUN WEBSITE PROFIL '**PARKER INTERNATIONAL SCHOOL**'
 ## LAPORAN FINAL PROJECT 
 ## Mata Kuliah Pemrograman Web (A)
-### Disusun Oleh :
+### Disusun Oleh : Kelompok 11
 1. Muhammad Arif Saifudin (19081010011)
 2. Ezra Wijaya (19081010054)
 3. Rizqy Ahsana Putri (19081010058)
