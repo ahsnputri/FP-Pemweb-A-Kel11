@@ -1,0 +1,5 @@
+Akun Administrator
+Halaman login administrator bisa di akses di localhost/parker/admin
+Email : admin@gmail.com
+Password : admin
+
