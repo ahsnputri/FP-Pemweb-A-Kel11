@@ -1,5 +1,6 @@
 
 
+
 # RANCANG BANGUN WEBSITE PROFIL '**PARKER INTERNATIONAL SCHOOL**'
 ## LAPORAN FINAL PROJECT 
 ## Mata Kuliah Pemrograman Web (A)
@@ -93,42 +94,43 @@ Jika kita mengeklik “beranda” maka akan diarahkan ke halaman beranda yang be
 Pada aplikasi web untuk user, terdapat 3 halaman yaitu halaman beranda, tentang, dan kontak. Fitur pada masing-masing halaman dapat diuraikan sebagai berikut :
 1. **Fitur Pada Halaman Beranda**<br/>
     - Menampilkan Informasi mengenai siswa-siswi berprestasi
-    ![Gambar siswa berprestasi](fitur/siswa_berprestasi.png "Siswa-Siswa Beprestasi")<br/><br/>
+    ![Gambar siswa berprestasi](https://user-images.githubusercontent.com/71718988/147490261-2898a315-5b2c-46be-857e-56e1b7ce4701.png)<br/><br/>
     - Menampilkan testimoni dari para professional
-    ![Gambar testimoni professional](fitur/testimoni_professional.png "Testimoni")<br/><br/>
+    ![Gambar testimoni professional](https://user-images.githubusercontent.com/71718988/147490271-a396aa6c-ddb3-4dfe-a616-02addd3f192f.png "Testimoni")<br/><br/>
 2. **Fitur Pada Halaman Tentang**<br/>
     - Menampilkan Visi, Misi, dan Aspek
-    ![Gambar Visi Misi Aspek](fitur/visi_misi.png "Visi Misi")<br/><br/>
+    ![Gambar Visi Misi Aspek](https://user-images.githubusercontent.com/71718988/147490279-6f8ce5ce-5094-4799-a0da-81073ad337a1.png "Visi Misi")<br/><br/>
     - Menampilkan video profil Parker School
-    ![Gambar Video Profil](fitur/video_profil.png "Video Profil Parker School")<br/><br/>
+    ![Gambar Video Profil](https://user-images.githubusercontent.com/71718988/147490276-f176d279-a1f1-4521-bde2-f95a2dab0976.png "Video Profil Parker School")<br/><br/>
     - Menampilkan testimoni dari para siswa/alumni
-    ![Gambar testimoni dari siswa/alumni](fitur/testimoni_siswa.png "Testimoni")<br/><br/>
+    ![Gambar testimoni dari siswa/alumni](https://user-images.githubusercontent.com/71718988/147490272-cf0d16d1-39e4-423d-bb37-2e2bb15f5933.png "Testimoni")<br/><br/>
 3. **Fitur Pada Halaman Kontak** <br/>
     - Menampilkan Maps/titik lokasi Parker School
-    ![Gambar titik lokasi](fitur/maps.png "Fitur Maps")<br/><br/>
+    ![Gambar titik lokasi](https://user-images.githubusercontent.com/71718988/147490254-0b6e83c8-08ad-4944-a2dc-0b6504d4cfe8.png "Fitur Maps")<br/><br/>
     - User dapat mengirimkan pesan untuk Parker School
-    ![Gambar kolom feedback](fitur/feedback.png "Fitur Kolom Feedback")<br/><br/>
+    ![Gambar kolom feedback](https://user-images.githubusercontent.com/71718988/147490249-674407e9-d65d-4132-9640-a83fb82a2c27.png "Fitur Kolom Feedback")<br/><br/>
 
 ### *FITUR WEB ADMIN*
 Pada aplikasi web untuk admin, terdapat 3 halaman yaitu halaman dashboard, data siswa, dan data feedback. Fitur pada masing-masing halaman dapat diuraikan sebagai berikut :
 1. **Fitur Login**<br/>
     - Admin wajib login untuk mengakses halaman admin
-    ![Gambar fitur login](fitur/login.png "Fitur Login")<br/><br/>
+    ![Gambar fitur login](https://user-images.githubusercontent.com/71718988/147490251-95b1a75f-0e9f-48db-a538-98914817ebea.png "Fitur Login")<br/><br/>
 2. **Fitur Pada Halaman Dashboard**<br/>
     - Menampilkan Informasi mengenai jumlah data pada menu Data Siswa dan Data Feedback
-    ![Gambar dashboard](fitur/jumlah_data.png "Fitur Informasi Jumlah Data")<br/><br/>
-    - Pintasan untuk menuju halaman Data Siswa
+    ![Gambar dashboard](https://user-images.githubusercontent.com/71718988/147490250-2e9500a4-aa2e-4530-bf01-6c42cf02fd85.png "Fitur Informasi Jumlah Data")<br/><br/>
+    - Pintasan untuk menuju halaman Data Siswa 
+    ![Gambar pintasan](https://user-images.githubusercontent.com/71718988/147490260-e311b756-0047-4295-90a5-fcfc78b3d496.png "Fitur Informasi Jumlah Data")<br/><br/>
     
 3. **Fitur Pada Halaman Data Siswa**<br/>
     - CRUD dan Search Data Siswa
-    ![Gambar Data Siswa](fitur/data_siswa.png "Fitur CRUD & Search Data Siswa")<br/><br/>
+    ![Gambar Data Siswa](https://user-images.githubusercontent.com/71718988/147490245-3e282ab6-62ca-4bef-8b63-2f4e0609c92c.png "Fitur CRUD & Search Data Siswa")<br/><br/>
     - Pagination
-    ![Gambar Pagination](fitur/pagination_datasiswa.png "Fitu rPagination Data Siswa")<br/><br/>
+    ![Gambar Pagination](https://user-images.githubusercontent.com/71718988/147490259-a7b24aa9-8f63-4db8-8f6c-f5fc170003e2.png "Fitu rPagination Data Siswa")<br/><br/>
 4. **Fitur Pada Halaman Data Feedback** <br/>
     - View dan Search Feedback
-    ![Gambar Data Feedback](fitur/data_feedback.png "Fitur View & Search Data Feedback")<br/><br/>
+    ![Gambar Data Feedback](https://user-images.githubusercontent.com/71718988/147490241-d35e7548-aacc-431a-9507-d09361b886e0.png "Fitur View & Search Data Feedback")<br/><br/>
     - Pagination
-    ![Gambar Pagination](fitur/pagination_datafeedback.png "Fitur Pagination Data Feedback")<br/><br/>
+    ![Gambar Pagination](https://user-images.githubusercontent.com/71718988/147490256-e0527f1d-dddc-411f-8237-ce96d3da364a.png "Fitur Pagination Data Feedback")<br/><br/>
 ---
 
 ## **KODE - KODE INTI**
